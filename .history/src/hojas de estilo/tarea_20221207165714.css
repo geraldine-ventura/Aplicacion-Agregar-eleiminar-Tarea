@@ -1,0 +1,19 @@
+.tarea-contenedor{
+    width: 500px;
+    min-height: 65px;
+    background-color: black;
+    margin: 5px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+    border: 1px solid white;
+    cursor: pointer;
+    padding: 0px;
+}
+.tarea-texto{
+    width: 100%;
+    height: ;
+    font-size: ;
+    display: flex;
+}

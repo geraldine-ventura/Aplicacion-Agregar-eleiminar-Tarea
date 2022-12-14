@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding:0 ;
+    box-sizing: border-box;
+
+}
+html,
+body{
+    color:beige;
+    background-color: black;
+    font-family: lato,sans-serif;
+    margin-top: 40px;
+
+}
+.aplicacion-tarea{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items:center ;
+}
+.freecodecamp-logo-contenedor{
+    width: 100%;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+}
+.freecodecamp-logo {
+    width: 400px;
+    
+}

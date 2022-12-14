@@ -1,0 +1,8 @@
+.tarea-formulario{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tarea-input{
+    width: 350px;
+}

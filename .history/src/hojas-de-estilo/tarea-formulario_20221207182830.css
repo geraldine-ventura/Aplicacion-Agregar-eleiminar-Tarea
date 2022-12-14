@@ -1,0 +1,18 @@
+.tarea-formulario{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tarea-input{
+    width: 350px;
+    font-size: 18px;
+    background-color: beige;
+    padding: 14px 32px 14px 16px;
+    border-radius:4px 0 0 4px ;
+    outline: none;
+}
+/*Boton Agregar Tarea*/
+.tarea-boton{
+    padding: 16px;
+    font-size: 18px;}
+}
