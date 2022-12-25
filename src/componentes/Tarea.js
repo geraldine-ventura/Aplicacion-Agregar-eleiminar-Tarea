@@ -2,7 +2,7 @@ import React from "react";
 import "../hojas-de-estilo/tarea.css";
 import {AiFillApple } from  "react-icons/ai";
 
- //props
+ //props cambio prueba rama
 function Tarea({id, texto, completada, completadaTarea, eliminarTarea }){
   return(
       <div className={completada ? "tarea-contenedor completada": "tarea-contenedor"}>
