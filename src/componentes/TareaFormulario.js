@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import"../hojas-de-estilo/tarea-formulario.css";
- import {v4 as uuidv4} from "uuid";
+import {v4 as uuidv4} from "uuid";
 function TareaFormulario(props) {
 
   const [input, setInput]= useState("");
